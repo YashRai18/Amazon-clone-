@@ -10,3 +10,6 @@ Technologies used - HTML and CSS
 ![portfolio2](https://github.com/user-attachments/assets/fd2a93c6-6a30-4531-9ae8-d01c8e589834)
 ![portfolio1](https://github.com/user-attachments/assets/9801cff1-5c93-4060-8dbc-3a8c0b6a243b)
 
+<br>
+Author - Yash Rai
+
